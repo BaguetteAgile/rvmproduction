@@ -6,7 +6,7 @@
   /* variable consent */
 window.orejimeConfig = {
     appElement: "#site-header",
-    privacyPolicy: "/politique-de-confidentialite/",
+    privacyPolicy: "https://rvmproduction.netlify.app/mentions-l-gales.html",
     mustConsent: true,
     implicitConsent: false,
     lang: "fr",

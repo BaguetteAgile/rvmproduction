@@ -38,7 +38,7 @@ window.orejimeConfig = {
          name: "google-tag-manager",
         title: "Google Tag Manager",
         purposes: ["statistic"],
-        cookie: ["_sb", "_fr", "_datr"]
+        cookie: ["_ga"]
     },
 
     {

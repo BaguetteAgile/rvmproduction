@@ -40,21 +40,7 @@ window.orejimeConfig = {
         purposes: ["statistic"],
         cookie: ["_ga"]
     },
-
-    {
-         name: "facebook",
-        title: "Facebook",
-        purposes: ["statistic"],
-        cookie: ["_sb", "_fr", "_datr"]
-    },
-    {
-         name: "videas",
-        title: "Videas",
-        purposes: ["essentiel"],
-        cookie: []
-    },
-
-    
+   
     ],
 }
 

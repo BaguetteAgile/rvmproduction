@@ -21,7 +21,7 @@ window.orejimeConfig = {
             purposes: {
                 experience: "Les cookies de préférences permettent à un site Web de retenir des informations qui modifient la manière dont le site se comporte ou s’affiche, comme votre langue préférée ou la région dans laquelle vous vous situez.",
                 statistic: "Les cookies statistiques aident les propriétaires du site Web, par la collecte et la communication d'informations de manière anonyme, à comprendre comment les visiteurs interagissent avec le site Web.",
-                essentiel: "Utile au bon fonctionnement des vidéos du site"
+                essentiel: "Utile au bon fonctionnement des vidéos de Calice"
             },
             save: "Accepter"
         },
@@ -32,10 +32,7 @@ window.orejimeConfig = {
         title: "Google Analytics",
         purposes: ["statistic"],
         cookies: ["_ga", "_gat", "_gid", "__utma", "__utmb", "__utmc", "__utmt", "__utmz"]
-    },
-
-
-   
+    },   
     ],
 }
 
